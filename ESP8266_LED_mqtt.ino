@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 
-const char* ssid     = "Nitsos";
-const char* password = "123456789";
+const char* ssid     = "";
+const char* password = "";
 const char* mqtt_server = "broker.emqx.io";
 
 
